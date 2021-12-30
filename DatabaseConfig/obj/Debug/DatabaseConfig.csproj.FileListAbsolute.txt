@@ -1,0 +1,13 @@
+C:\Users\james\Desktop\task\DatabaseConfig\DatabaseConfig\bin\Debug\DatabaseConfig.exe.config
+C:\Users\james\Desktop\task\DatabaseConfig\DatabaseConfig\bin\Debug\DatabaseConfig.exe
+C:\Users\james\Desktop\task\DatabaseConfig\DatabaseConfig\bin\Debug\DatabaseConfig.pdb
+C:\Users\james\Desktop\task\DatabaseConfig\DatabaseConfig\obj\Debug\DatabaseConfig.csproj.AssemblyReference.cache
+C:\Users\james\Desktop\task\DatabaseConfig\DatabaseConfig\obj\Debug\DatabaseConfig.csproj.SuggestedBindingRedirects.cache
+C:\Users\james\Desktop\task\DatabaseConfig\DatabaseConfig\obj\Debug\DatabaseConfig.DatabasConfigwiz.resources
+C:\Users\james\Desktop\task\DatabaseConfig\DatabaseConfig\obj\Debug\DatabaseConfig.Properties.Resources.resources
+C:\Users\james\Desktop\task\DatabaseConfig\DatabaseConfig\obj\Debug\DatabaseConfig.csproj.GenerateResource.cache
+C:\Users\james\Desktop\task\DatabaseConfig\DatabaseConfig\obj\Debug\DatabaseConfig.csproj.CoreCompileInputs.cache
+C:\Users\james\Desktop\task\DatabaseConfig\DatabaseConfig\obj\Debug\DatabaseConfig.exe
+C:\Users\james\Desktop\task\DatabaseConfig\DatabaseConfig\obj\Debug\DatabaseConfig.pdb
+C:\Users\james\Desktop\task\DatabaseConfig\DatabaseConfig\bin\Debug\MySql.Data.dll
+C:\Users\james\Desktop\task\DatabaseConfig\DatabaseConfig\obj\Debug\DatabaseConfig.csproj.CopyComplete
